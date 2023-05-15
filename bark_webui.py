@@ -581,5 +581,5 @@ with gr.Blocks(theme=default_theme,css=bark_console_style) as demo:
 
  
 
-demo.queue().launch()
+demo.queue().launch(share=True)
 

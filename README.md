@@ -26,7 +26,7 @@ Bark Infinity _evolved_ 🧬, expanding across dimensions 🌐. Infinite Length 
 
 pip
 ```
-!git clone https://github.com/JonathanFly/bark.git
+!git clone https://github.com/JawharKod/bark.git
 %cd bark
 !pip install -r requirements-pip.txt
 !pip install encodec rich-argparse
